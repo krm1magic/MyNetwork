@@ -1,0 +1,9 @@
+.content{
+    grid-area: c;
+    background-color:rgb(40, 38, 128);
+    }
+
+
+.profile img{
+    background-size: 1000px;
+}
